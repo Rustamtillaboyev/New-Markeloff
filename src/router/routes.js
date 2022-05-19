@@ -8,6 +8,7 @@ const routes = [
       { path: '/AvvalIkki', component: () => import('pages/AvvalIkki.vue') },
       { path: '/Narxlar', component: () => import('components/Narxlar.vue') },
       { path: '/Blogclassic', component: () => import('components/Blogclassic.vue') },
+
     ]
   },
 
